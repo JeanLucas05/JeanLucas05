@@ -14,10 +14,7 @@ Olá! Eu sou Jean Lucas, estudante de Tecnologia no IFPE, apaixonado por desenvo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-c72c3b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanlucas05) <!-- Se não tiver, pode remover -->
 [![Email](https://img.shields.io/badge/Email-c72c3b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanlucas091410@gmail.com)
 
-<h3 align="left">Certificações</h3>
-<div align="left">
 
-#
 
 ## 🛠️ Tecnologias  
 <h3 align="left">Conecte-se comigo!</h3>
