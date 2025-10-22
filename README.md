@@ -10,6 +10,27 @@ Olá! Eu sou Jean Lucas, estudante de Tecnologia no IFPE, apaixonado por desenvo
 
 #
 
+## 🛠️ Tecnologias  
+<h3 align="left">Conecte-se comigo!</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Slim_Framework-74B6EC?style=for-the-badge&logo=php&logoColor=white" alt="Slim"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+</div>
+[![GitHub](https://img.shields.io/badge/GitHub-c72c3b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanLucas05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c72c3b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanlucas05) <!-- Se não tiver, pode remover -->
+[![Email](https://img.shields.io/badge/Email-c72c3b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanlucas091410@gmail.com)
+
+## 🛠️ Ferramentas
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+</div>
+
 
 <h3 align="left">Conecte-se comigo!</h3>
 
@@ -22,23 +43,6 @@ Olá! Eu sou Jean Lucas, estudante de Tecnologia no IFPE, apaixonado por desenvo
 
 
 
-</div>
-
-<h3 align="left">Minha Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="25" alt="laravel logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slim/slim-original.svg" height="25" alt="slim logo" /> <!-- Slim não tem logo oficial, então pode remover ou substituir -->
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
-</div>
 
 #
 
