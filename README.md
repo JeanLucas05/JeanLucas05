@@ -1,14 +1,13 @@
 # 👋 Olá! Eu sou Jean Lucas  
 
 🎓 Estudante de Tecnologia no IFPE  
-💻 Apaixonado por desenvolvimento **Backend** com **PHP**  
-🚀 Atualmente focado no aprendizado do **Laravel**  
-
+💻 Apaixonado por desenvolvimento **Backend** com **PHP** e **Java**  
+🚀 Atualmente focado no aprendizado do **Laravel** e **Java** 
 
 ---
 
 ## ⚡ Sobre mim  
-- 🎯 Foco: Backend, APIs RESTful, PHP  
+- 🎯 Foco: Backend, APIs RESTful, PHP , Java  
 - 💻 Principal linguagem: **PHP**  
 - 🚀 Frameworks: **Laravel** (em aprendizado), **Slim** (já utilizado)  
 
@@ -22,9 +21,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
-
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
 
 ---
 
@@ -41,3 +38,4 @@
 ## 📫 Como falar comigo  
 
 [![GitHub](https://img.shields.io/badge/GitHub-JeanLucas05-181717?style=for-the-badge&logo=github)](https://github.com/JeanLucas05)  
+✉️ jeanlucas091410@gmail.com
