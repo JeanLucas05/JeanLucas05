@@ -8,6 +8,15 @@
 Olá! Eu sou Jean Lucas, estudante de Tecnologia no IFPE, apaixonado por desenvolvimento Backend com PHP e Java. Atualmente focado no aprendizado do Laravel e Java para construir APIs RESTful eficientes e robustas. Estou sempre buscando novos desafios para crescer profissionalmente e transformar ideias em soluções de impacto.
 </p>
 
+<h3 align="left">Conecte-se comigo!</h3>
+
+[![GitHub](https://img.shields.io/badge/GitHub-c72c3b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanLucas05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c72c3b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanlucas05) <!-- Se não tiver, pode remover -->
+[![Email](https://img.shields.io/badge/Email-c72c3b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanlucas091410@gmail.com)
+
+<h3 align="left">Certificações</h3>
+<div align="left">
+
 #
 
 ## 🛠️ Tecnologias  
@@ -19,9 +28,7 @@ Olá! Eu sou Jean Lucas, estudante de Tecnologia no IFPE, apaixonado por desenvo
   <img src="https://img.shields.io/badge/Slim_Framework-74B6EC?style=for-the-badge&logo=php&logoColor=white" alt="Slim"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </div>
-[![GitHub](https://img.shields.io/badge/GitHub-c72c3b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanLucas05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-c72c3b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanlucas05) <!-- Se não tiver, pode remover -->
-[![Email](https://img.shields.io/badge/Email-c72c3b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanlucas091410@gmail.com)
+
 
 ## 🛠️ Ferramentas
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -32,14 +39,7 @@ Olá! Eu sou Jean Lucas, estudante de Tecnologia no IFPE, apaixonado por desenvo
 </div>
 
 
-<h3 align="left">Conecte-se comigo!</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-c72c3b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanLucas05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-c72c3b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanlucas05) <!-- Se não tiver, pode remover -->
-[![Email](https://img.shields.io/badge/Email-c72c3b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanlucas091410@gmail.com)
-
-<h3 align="left">Certificações</h3>
-<div align="left">
 
 
 
