@@ -11,9 +11,6 @@
 - 🎯 Foco: Backend, APIs RESTful, PHP  
 - 💻 Principal linguagem: **PHP**  
 - 🚀 Frameworks: **Laravel** (em aprendizado), **Slim** (já utilizado)  
-[![An image of @jeanlucas05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeanlucas05)](https://holopin.io/@jeanlucas05)
-
----
 
 ## 🛠️ Tecnologias  
 
