@@ -42,7 +42,7 @@
 <div style="text-align: center;" align="center">
   <h3>Estatísticas do GitHub</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanLucas05&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=c72c3b&text_color=FFFFFF&border_radius=3&border_color=c72c3b&icon_color=c72c3b&ring_color=c72c3b" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanLucas05&show_icons=true&include_all_commits=true&count_private=false&bg_color=000000&title_color=c72c3b&text_color=FFFFFF">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLucas05&line_height=10&card_width=290&layout=compact&count_private=true&langs_count=4&show_icons=true&title_color=c72c3b&bg_color=000000&text_color=FFFFFF&border_radius=3&border_color=c72c3b" alt="Linguagens mais usadas">
