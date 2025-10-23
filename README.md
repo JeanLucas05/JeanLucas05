@@ -28,7 +28,7 @@ Olá! Eu sou Jean Lucas, estudante de Tecnologia no IFPE, apaixonado por desenvo
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
   
-✨ Dica extra:
+
 </div>
 
 
