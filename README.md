@@ -50,7 +50,12 @@ Olá! Eu sou Jean Lucas, estudante de Tecnologia no IFPE, apaixonado por desenvo
   <h3>Estatísticas do GitHub</h3>
   <br>
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeanLucas05&show_icons=true&include_all_commits=true&count_private=false&bg_color=000000&title_color=c72c3b&text_color=FFFFFF" alt="GitHub stats" style="height: 150px;" />
+    <img 
+  src="https://github-readme-stats.vercel.app/api?username=JeanLucas05&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=c72c3b&text_color=FFFFFF" 
+  alt="GitHub stats" 
+  style="height: 150px;" 
+/>
+
 
   <a href="https://github.com/JeanLucas05" style="display: inline-block;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLucas05&line_height=10&card_width=290&layout=compact&count_private=true&langs_count=4&show_icons=true&title_color=c72c3b&bg_color=000000&text_color=FFFFFF&border_radius=3&border_color=c72c3b" alt="Linguagens mais usadas" style="height: 150px;" />
